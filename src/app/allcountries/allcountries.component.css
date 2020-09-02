@@ -1,0 +1,8 @@
+table {
+   background: whitesmoke; 
+}
+
+th, td {
+    color: black;
+    font-weight: bold;
+}
